@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Hi%20There,%20I'm%20Vishwa%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20|%20C++%20%26%20Java%20Developer%20|%20Aspiring%20Software%20Engineer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Hi%20There,%20I'm%20Vishwa%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20%7C%20C%2B%2B%20%26%20Java%20Developer%20%7C%20Aspiring%20Software%20Engineer&descAlignY=55&descSize=18"/>
 
 <a href="https://github.com/Tech-vishwa">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+About+Software+Development;First-Year+IT+Student+at+SKCET;Solving+DSA+Problems+on+LeetCode;Learning+C%2B%2B%2C+Java+%26+Python;Building+Projects+%26+Growing+Every+Day;Code.+Learn.+Build.+Repeat.&font=Fira%20Code&center=true&width=650&height=45&duration=3000&pause=800&color=2C5364&vCenter=true&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+About+Software+Development;First-Year+IT+Student+at+SKCET;Solving+DSA+Problems+on+LeetCode;Learning+C%2B%2B%2C+Java+%26+Python;Building+Projects+%26+Growing+Every+Day;Code.+Learn.+Build.+Repeat.&font=Fira+Code&center=true&width=650&height=45&duration=3000&pause=800&color=2C5364&vCenter=true&size=22"/>
 </a>
 
 <br/>
@@ -121,4 +121,3 @@ fun_fact: "Enjoys cricket 🏏, coding 💻, and chilling with friends 😄"
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=100&section=footer"/>
 
 </div>
-
