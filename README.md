@@ -1,6 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Hi%20There,%20I'm%20Vishwa%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20%7C%20C%2B%2B%20%26%20Java%20Developer%20%7C%20Aspiring%20Software%20Engineer&descAlignY=55&descSize=18"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Hi%20There%2C%20I%27m%20Vishwa%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20%7C%20C%2B%2B%20%26%20Java%20Developer%20%7C%20Aspiring%20Software%20Engineer&descAlignY=55&descSize=18" alt="Header banner" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Tech-vishwa">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+About+Software+Development;First-Year+IT+Student+at+SKCET;Solving+DSA+Problems+on+LeetCode;Learning+C%2B%2B%2C+Java+%26+Python;Building+Projects+%26+Growing+Every+Day;Code.+Learn.+Build.+Repeat.&font=Fira+Code&center=true&width=650&height=45&duration=3000&pause=800&color=2C5364&vCenter=true&size=22" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- ================= SOCIAL / STATS ROW ================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tech-vishwa&label=Profile%20Views&color=2c5364&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tech-vishwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-vishwa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tech-vishwa&theme=react-dark&hide_border=true" alt="Activity graph" />
+</p>
+
+<!-- ================= SNAKE ANIMATION (needs GitHub Action, see notes below) ================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tech-vishwa/Tech-vishwa/output/github-contribution-grid-snake.svg" alt="Snake animation eating contribution graph" />
+</p>
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=120&section=footer" alt="Footer banner" />
+</p>
 
 <a href="https://github.com/Tech-vishwa">
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+About+Software+Development;First-Year+IT+Student+at+SKCET;Solving+DSA+Problems+on+LeetCode;Learning+C%2B%2B%2C+Java+%26+Python;Building+Projects+%26+Growing+Every+Day;Code.+Learn.+Build.+Repeat.&font=Fira+Code&center=true&width=650&height=45&duration=3000&pause=800&color=2C5364&vCenter=true&size=22"/>
