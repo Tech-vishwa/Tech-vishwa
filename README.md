@@ -1,47 +1,26 @@
+<h1 align="center">Hi There, I'm Vishwa 👋</h1>
+
+<p align="center"><b>IT Student | C++ &amp; Java Developer | Aspiring Software Engineer</b></p>
+
 <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Hi%20There%2C%20I%27m%20Vishwa%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Student%20%7C%20C%2B%2B%20%26%20Java%20Developer%20%7C%20Aspiring%20Software%20Engineer&descAlignY=55&descSize=18" alt="Header banner" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Tech-vishwa">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+About+Software+Development;First-Year+IT+Student+at+SKCET;Solving+DSA+Problems+on+LeetCode;Learning+C%2B%2B%2C+Java+%26+Python;Building+Projects+%26+Growing+Every+Day;Code.+Learn.+Build.+Repeat.&font=Fira+Code&center=true&width=650&height=45&duration=3000&pause=800&color=2C5364&vCenter=true&size=22" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- ================= SOCIAL / STATS ROW ================= -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tech-vishwa&label=Profile%20Views&color=2c5364&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tech-vishwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-vishwa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tech-vishwa&theme=react-dark&hide_border=true" alt="Activity graph" />
-</p>
-
-<!-- ================= SNAKE ANIMATION (needs GitHub Action, see notes below) ================= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tech-vishwa/Tech-vishwa/output/github-contribution-grid-snake.svg" alt="Snake animation eating contribution graph" />
-</p>
-
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=120&section=footer" alt="Footer banner" />
-</p>
-
 <a href="https://github.com/Tech-vishwa">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+About+Software+Development;First-Year+IT+Student+at+SKCET;Solving+DSA+Problems+on+LeetCode;Learning+C%2B%2B%2C+Java+%26+Python;Building+Projects+%26+Growing+Every+Day;Code.+Learn.+Build.+Repeat.&font=Fira+Code&center=true&width=650&height=45&duration=3000&pause=800&color=2C5364&vCenter=true&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+About+Software+Development;First-Year+IT+Student+at+SKCET;Solving+DSA+Problems+on+LeetCode;Learning+C%2B%2B%2C+Java+%26+Python;Building+Projects+%26+Growing+Every+Day;Code.+Learn.+Build.+Repeat.&amp;font=Fira+Code&amp;center=true&amp;width=650&amp;height=45&amp;duration=3000&amp;pause=800&amp;color=58A6FF&amp;vCenter=true&amp;size=22" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Tech-vishwa&label=Profile%20Views&color=2c5364&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/Tech-vishwa?label=Followers&style=flat&color=2c5364" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=Tech-vishwa&amp;label=Profile%20Views&amp;color=2c5364&amp;style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Tech-vishwa?label=Followers&amp;style=flat&amp;color=2c5364" alt="Followers" />
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tech-vishwa&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Tech-vishwa&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Tech-vishwa/Tech-vishwa/output/github-contribution-grid-snake.svg" alt="Snake animation eating contribution graph" />
 
 </div>
 
@@ -71,20 +50,22 @@ fun_fact: "Enjoys cricket 🏏, coding 💻, and chilling with friends 😄"
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql&amp;theme=dark" alt="Languages" />
 
 **Currently Learning**
 
-<img src="https://skillicons.dev/icons?i=git,githubactions,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,githubactions&amp;theme=dark" alt="Currently learning" />
 
-<sub>Data Structures & Algorithms&nbsp; • &nbsp;Object-Oriented Programming&nbsp; • &nbsp;Database Management Systems&nbsp; • &nbsp;Web Development&nbsp; • &nbsp;Git & GitHub</sub>
+<sub>Data Structures & Algorithms • Object-Oriented Programming • Database Management Systems • Web Development • Git & GitHub</sub>
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&amp;theme=dark" alt="Tools" />
+
+<br/><br/>
 
 <a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" />
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&amp;logo=leetcode&amp;logoColor=orange" alt="LeetCode" />
 </a>
 
 </div>
@@ -112,12 +93,11 @@ fun_fact: "Enjoys cricket 🏏, coding 💻, and chilling with friends 😄"
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 Top Languages
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tech-vishwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-vishwa&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-vishwa&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top languages" />
 
 </div>
 
@@ -128,28 +108,24 @@ fun_fact: "Enjoys cricket 🏏, coding 💻, and chilling with friends 😄"
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vishwanathan-thirunavukkarasu-prof2007">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/Tech-vishwa">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 </a>
 <a href="mailto:vishwanathan.it25@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-2c5364?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" />
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 ### 💡 "Code. Learn. Build. Repeat."
 
 <sub>Thanks for visiting my profile! ⭐</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=100&section=footer"/>
-
 </div>
+
+<hr/>
